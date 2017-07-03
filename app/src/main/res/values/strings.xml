@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Street מרקט</string>
+    <string name="title_activity_item" translatable="false">ItemActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="info">Info</string>
+    <string name="code">Code</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="ok">OK</string>
+    <string name="alertItemNotFind">Can\'t get the Item info related to the input code</string>
+    <string name="weight">Weight</string>
+    <string name="loading">Getting Data …</string>
+    <string name="extra">Extra</string>
+    <string name="grp">Group</string>
+    <string name="department">Department</string>
+    <string name="profit">Profit</string>
+    <string name="discountSupplier">Supplier\'s discount</string>
+    <string name="discountable">Discount posibility</string>
+    <string name="bonus_discout">Bonus discount</string>
+    <string name="bonus_count">Bonus count</string>
+    <string name="supplier">Supplier</string>
+    <string name="cost_brutto">Cost brutto</string>
+    <string name="discountItem">Item discount</string>
+    <string name="vat_sum">Vat</string>
+    <string name="cost_netto">Cost netto</string>
+    <string name="unit">Unit</string>
+    <string name="bonus_base">Bonus base</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="navHeaderTitle" translatable="false">Aviv Inventory</string>
+
+
+    <string name="item_info">Item Info</string>
+    <string name="inventory_counting">Inventory counting</string>
+    <string name="status">Status</string>
+    <string name="tools">Tools</string>
+
+
+    <string name="search">Поиск</string>
+    <string name="enter_code_here">Код</string>
+    <string name="enter_name_here">Наименование</string>
+    <string name="search_by">Поиск</string>
+    <string name="clear">Очистить</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="alertClientConnectionError">No data found</string>
+    <string name="alertPrivateWSConnectionError">The service is unreachable</string>
+    <string name="waiting_for_result">Waiting For Results...</string>
+    <string name="cancel">Cancel</string>
+    <string name="invalid_character_count">Invalid character\'s count</string>
+    <string name="title_activity_item_edit">Settings</string>
+
+
+    <string name="title_activity_item_update">Item details</string>
+    <string name="saving">Saving...</string>
+    <string name="get_info_error">Cant get init info</string>
+    <string name="access_denied">Access denied</string>
+    <string name="account_not_exists">The client is not signed up.</string>
+    <string name="client_db_connection_error">The client DB connection error</string>
+    <string name="user">User</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="authenticating">Authenticating…</string>
+    <string name="exit">Exit</string>
+    <string name="alertSessionClosed">The session closed</string>
+    <string name="group">Group</string>
+    <string name="socket_timeout" translatable="false">A timeout expired on a create connection. Please try later…</string>
+    <string name="start">Start</string>
+    <string name="end">End</string>
+    <string name="from_date">From date</string>
+    <string name="to_date">To date</string>
+    <string name="sales_chart">Current month %1s/today sales</string>
+    <string name="init_items">Init items…</string>
+    <string name="init_images">Init images…</string>
+    <string name="init_image">Init image</string>
+    <string name="sales_avg_chart">Clients/Avg client sum</string>
+    <string name="sales_month_chart">This month sales (%1s)</string>
+    <string name="promotions">Promotions</string>
+    <string name="init_promo">init promotions</string>
+    <string name="title_activity_status">Status</string>
+    <string name="legendThisMonth">This Month</string>
+    <string name="legendThisDay">Today</string>
+    <string name="legendClients">Clients</string>
+    <string name="legendDealsAvg">Client Avg</string>
+    <string name="title_hr_avg">Workhour/Sales</string>
+    <string name="title_hr_total">Workhour total</string>
+    <string name="title_hr_first_entry">Workhour First Entry</string>
+    <string name="legendWHTotal">Workhour total</string>
+    <string name="legendHRSales">Sales per workhour</string>
+    <string name="legendHRTotal">Shift employee count</string>
+    <string name="legendHRCurrent">Current employee count</string>
+    <string name="legendHRFirstShift">Shift Open Time</string>
+    <string name="legendHRFirstDeal">Time of the first deal</string>
+    <string name="statusHRActivity">HR activity</string>
+    <string name="statusTerminalActivity">Terminals activity</string>
+    <string name="statusSales">Sales</string>
+    <string name="title_status_deals">Deals\' status</string>
+    <string name="openDeals">Deals in process</string>
+    <string name="request_camera_permission">This app needs camera permission.</string>
+    <string name="turn_on_flashlight">Turn on Flashlight</string>
+    <string name="turn_off_flashlight">Turn off Flashlight</string>
+    <string name="action_load">Load data</string>
+</resources>
